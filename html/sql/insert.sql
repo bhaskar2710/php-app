@@ -1,0 +1,1 @@
+INSERT INTO address (lastname, firstname, phone, email) VALUES ( "Johnson", "Roberto", "123-456-7890", "robertoj@someaddress.com"), ( "Doe", "Jane", "010-110-1101", "janed@someotheraddress.org" ), ( "Bhaskar", "Roberto", "123-456-7890", "robertoj@someaddress.com");
