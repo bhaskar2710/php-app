@@ -4,7 +4,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 ?><!DOCTYPE html>
 <html>
   <head>
-    <title>Abheer ki Amaze galat park hai</title>
+    <title>Abheer ki scooty sahi park hai</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
   </head>
